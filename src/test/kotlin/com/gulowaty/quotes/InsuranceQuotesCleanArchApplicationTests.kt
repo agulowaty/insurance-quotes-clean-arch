@@ -1,4 +1,4 @@
-package com.gulowaty.insurancequotescleanarch
+package com.gulowaty.quotes
 
 import org.junit.Test
 import org.junit.runner.RunWith

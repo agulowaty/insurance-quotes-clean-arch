@@ -1,4 +1,4 @@
-package com.gulowaty.insurancequotescleanarch
+package com.gulowaty.quotes
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
